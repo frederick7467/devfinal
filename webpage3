@@ -1,0 +1,11 @@
+<html>
+        <head>
+                <title>webpage3</title>
+                </head>
+                <body bgcolor="yellow">
+                        <h1>webpage3</h1><br>
+                        <a href="index.html">Click here ->page1</a>
+                        <a href="webpage2.html">Click here ->page2</a>
+                        </body>
+                        </html>
+
