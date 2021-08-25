@@ -2,7 +2,7 @@
         <head>
                 <title>webpage2</title>
                 </head>
-                <body bgcolor="green">
+                <body bgcolor="blue">
                         <h1>my_webpage_2</h1><br>
                         <a href="webpage3.html">Click here ->page3</a>
                         <a href="index.html">Click here ->page1</a>
